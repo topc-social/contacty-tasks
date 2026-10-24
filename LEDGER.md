@@ -6,3 +6,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
+| 1 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #1: Upload your phone contacts and search who you know | 15 | provisional | https://github.com/topc-social/contacty-tasks/issues/1 |
+| 2 | 2026-10-25 | Kamal Khatwani (via Claude) | Work (99%) on #1: Upload your phone contacts and search who you know | 1,485 | provisional | https://github.com/topc-social/contacty-tasks/issues/1 |
